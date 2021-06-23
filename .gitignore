@@ -1,0 +1,8 @@
+.vscode
+build
+dist
+docs/.buildinfo
+docs/.doctrees/
+*.egg-info
+__pycache__
+.venv
