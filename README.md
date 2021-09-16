@@ -2,18 +2,18 @@
 
 The TuyaOS Link SDK is built with C programming language, which provides interface encapsulation of basic services such as device activation, DP upstream and downstream, and firmware OTA upgrade. It is suitable for developers to connect the logic services of a self-developed device to the the cloud.
 
+> **Time-limited activity**:
+>
+> Welcome to join in the [Tuya Beta Test](http://iot.tuya.com/?_source=9e2500920fe2275d1d1d5192dadd3f79) to get your development gifts and make the contribution to this Git repo. Your feedback is valuable to the whole Tuya community.
+
 ## Table of contents
 
-- [TuyaOS Link SDK for Python](#tuyaos-link-sdk-for-python)
-    - [Minimum Requirements](#minimum-requirements)
+- [Minimum Requirements](#minimum-requirements)
+- [Library](#library)
     - [Install from PyPI](#install-from-pypi)
     - [Install from source](#install-from-source)
   - [Examples](#examples)
 - [License](#license)
-
-> **Time-limited activity**:
->
-> Welcome to join in the [Tuya Beta Test](http://iot.tuya.com/?_source=9e2500920fe2275d1d1d5192dadd3f79) to get your development gifts and make the contribution to this Git repo. Your feedback is valuable to the whole Tuya community.
 
 ## Minimum requirements
 
@@ -36,7 +36,7 @@ python3 -m pip install ./tuyaos-link-sdk-python
 
 ## Examples
 
-See [Examples README](examples).
+See [Examples](examples).
 
 ```python
 from tuyalinksdk.client import TuyaClient
