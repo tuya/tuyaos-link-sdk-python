@@ -1,3 +1,9 @@
+[![GitHub watchers](https://img.shields.io/github/watchers/tuya/tuyaos-link-sdk-python.svg?style=social&label=Watch)](https://GitHub.com/tuya/tuyaos-link-sdk-python/watchers/)
+[![GitHub stars](https://img.shields.io/github/stars/tuya/tuyaos-link-sdk-python.svg?style=social&label=Star)](https://GitHub.com/tuya/tuyaos-link-sdk-python/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/tuya/tuyaos-link-sdk-python.svg?style=social&label=Fork)](https://GitHub.com/tuya/tuyaos-link-sdk-python/network/)
+
+If you like Tuya Python Link SDK - give it a star, or fork it and contribute!
+
 # TuyaOS Link SDK for Python
 
 The TuyaOS Link SDK is built with C programming language, which provides interface encapsulation of basic services such as device activation, DP upstream and downstream, and firmware OTA upgrade. It is suitable for developers to connect the logic services of a self-developed device to the the cloud.
